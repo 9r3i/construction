@@ -1,2 +1,17 @@
 # construction
 under-construction web page
+
+
+# header
+if working with php, example:
+```php
+<?php
+defined('MSERVER_FILE') 
+  or define('MSERVER_FILE','server/mserver.php');
+if(is_file(MSERVER_FILE)){
+  @require_once(MSERVER_FILE);
+  exit;
+}
+```
+
+
