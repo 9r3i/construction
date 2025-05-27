@@ -13,5 +13,7 @@ if(is_file(MSERVER_FILE)){
   exit;
 }
 ```
+this sample for mserver library only.
+when the file's ready, then the construction won't be loaded.
 
 
