@@ -17,3 +17,7 @@ this sample for mserver library only.
 when the file's ready, then the construction won't be loaded.
 
 
+# usage
+1. rename `index.php.txt` to `index.php` if workig with php
+2. rename `index.txt` to `index.html` if just for covering up the web
+
